@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Kai, a passionate software developer and tech enthusiast. Welcome to my GitHub profile!
+I'm Kai, Welcome to my GitHub profile!
 
 🔭 Currently: UofT Physics, Philosophy and Mathematics Undergraduate student
 
